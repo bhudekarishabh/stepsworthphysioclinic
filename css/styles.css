@@ -1,0 +1,230 @@
+body{
+    margin: 0;
+}
+
+.welcome{
+    background: url("C:/Users/Rishabh/Desktop/Gargi Shirke/Stepsworth Physio/images/doc1.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 695px;
+    position: relative;
+    margin: 0;
+}
+
+.h11{
+    font-family: 'Lobster', cursive;
+    color: #71c9ce;
+    background-color: #ffd460;
+}
+
+.h12{
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.cliniclogo{
+    margin-top: 100px;
+    border: 0.3rem solid #40a8c4;
+}
+
+.aboutme{
+    background-color: #60d7dd;
+    left: 520px;
+    width: 20%;
+    font-family: 'Luckiest Guy', cursive;
+    margin: 0 auto 2rem auto;
+}
+
+.details{
+    font-family: 'Alfa Slab One', cursive;
+    background-color: #ffc8c8;
+    margin: 0;
+}
+
+.dpimage{
+    border-radius: 100%;
+    border: 0.4rem solid #ee6f57;
+    margin-top: 0.7em;
+}
+
+.fonth1{
+    font-family: 'Luckiest Guy', cursive;
+    color: #440047;
+    margin-top: 10px ;
+    background-color: #ee6f57;
+    width: 30%;
+}
+
+.fonth3{
+    font-family: 'Caveat', cursive;
+    font-size: initial;
+    width: 70%;
+}
+
+.paddingforcontent{
+    padding: 0.8em;
+}
+
+.specialize{
+    font-family: 'Luckiest Guy', cursive;
+    width: 40%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    padding: 2rem;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    background-color: #71c9ce;
+}
+
+.specializefont{
+    font-family: 'Luckiest Guy', cursive;
+    background-color: #ffc8c8;
+    width: 70%;
+    margin-bottom: 0;
+}
+
+.newback{
+    background-color: #71c9ce;
+}
+
+.specializefloat{
+    font-family: 'Caveat', cursive;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+
+.specializeimg{
+    border-radius: 100%;
+    border: 0.32rem solid #137d9b;
+}
+
+
+.treatments{
+    background-color: #71c9ce;
+    position: relative;
+    width: 50%;
+    font-family: 'Luckiest Guy', cursive;
+    margin: 0 auto;
+}
+
+.container{
+    margin-top: 0;
+    background-color: #ffd460;
+}
+
+.cardtitle{
+    background-color: #ffd460;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 4em;
+    margin-top: 2em;
+}
+
+.cards{
+    font-family: 'Caveat', cursive;
+    font-size: 1.08em;
+    background-color: #ffffff;
+    padding: 1em;
+    border-radius: .4em;
+    box-shadow: 0 20px 30px 0 rgba(0,0,0,.3);
+    position: relative;
+    margin: 0;
+}
+
+.cards:hover{
+    background-color: #ffd460;
+}
+
+.newcard{
+    position: relative;
+    left: 114%;
+    bottom: 15%;
+    padding: 0.7rem;
+    height: 92%;
+}
+
+.grid2{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    width: 60%;
+    grid-gap: 4em;
+}
+
+.cards1{
+    font-family: 'Caveat', cursive;
+    font-size: 1.08em;
+    background-color: #ffffff;
+    padding: 1em;
+    border-radius: .4em;
+    box-shadow: 0 20px 30px 0 rgba(0,0,0,.3);
+    position: relative;
+}
+
+.cards1:hover{
+    background-color: #f19e9e;
+}
+
+.cardtitle2{
+    background-color: #ffd460;
+    font-family: 'Luckiest Guy', cursive;
+    margin: 0 auto 1.5rem auto;
+    width: 60%;
+}
+
+.back{
+    background-color: #f19e9e;
+    padding-bottom: 32px;
+    margin: 0 auto;
+}
+
+.fullback{
+    background-color: #40a8c4;
+    margin: 0;
+    padding-bottom: 2rem;
+}
+
+.aboutustitle{
+    background-color: #f19e9e;
+    font-family: 'Luckiest Guy', cursive;
+    width: 50%;
+    margin: 0;
+}
+
+.locationalign{
+    margin: 0 auto;
+}
+
+.division{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    margin: 0;
+}
+
+.h1loc{
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.p{
+    font-family: 'Caveat', cursive;
+    font-size: 1rem;
+}
+
+.h1ali{
+    font-family: 'Luckiest Guy', cursive;
+}
+
+
+
